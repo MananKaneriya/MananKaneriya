@@ -50,7 +50,6 @@
 ## 🎯 Achievements
 
 * 🧩 Solved 60+ LeetCode problems
-* 🏆 Coding quiz winner
 * 👨‍🏫 Taught Python & C
 
 ---
