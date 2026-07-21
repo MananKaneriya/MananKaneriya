@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Manan Kaneriya</h1>
 
 <p align="center">
-  <b>AI Engineer | Software Developer | Problem Solver</b>
+  <b>AI Engineer | Software Developer | Problem Solver | Full Stack Engineer</b>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 * 🎓 CSE (AI & ML) Student
-* 💻 Focused on C, DSA & AIML
+* 💻 Focused on C, JS, Full Stack & AIML
 * 🧠 Passionate about solving real-world problems
 * 📍 Bengaluru, India
 
@@ -24,7 +24,7 @@
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,mongodb,git,github,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,mongodb,git,node,express,github,tensorflow" />
 </p>
 
 ---
@@ -41,6 +41,7 @@
 
 ## 🚀 Projects
 
+🔹 **VideoTube** – Production Scaled Application Similar to YouTube
 🔹 **On2RAG** – Ontology-based RAG system
 🔹 **MarketPulseAI** – AI market intelligence platform
 🔹 **WearsYou** – E-commerce fashion app
@@ -50,7 +51,7 @@
 ## 🎯 Achievements
 
 * 🧩 Solved 60+ LeetCode problems
-* 👨‍🏫 Taught Python & C
+* 👨‍🏫 Taught Python, JavaScript & C
 
 ---
 
